@@ -18,4 +18,5 @@ body {
     font-family: 'Dosis', sans-serif;
     font-display: swap;
     height: inherit;
+    justify-content: center;
 }
